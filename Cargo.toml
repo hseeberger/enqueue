@@ -1,0 +1,13 @@
+[package]
+name          = "enqueue"
+version       = "0.1.0"
+description   = "iterator allowing for enqueuing elements to its end"
+rust-version  = "1.72.0"
+edition       = "2021"
+authors       = [ "Heiko Seeberger <git@heikoseeberger.de>" ]
+license       = "Apache-2.0"
+readme        = "README.md"
+homepage      = "https://github.com/hseeberger/put-front"
+repository    = "https://github.com/hseeberger/put-front"
+documentation = "https://github.com/hseeberger/put-front"
+publish       = false
